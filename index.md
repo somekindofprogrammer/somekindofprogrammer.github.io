@@ -1,6 +1,6 @@
 Hello github user
 
-![git with long creation](long_id.gif "Making a random long")
+![gif with long creation](long_id.gif "Making a random long")
 
 
     long nextLong = nextLong();
@@ -16,3 +16,5 @@ class Test {
     }
 }
 ```
+
+![gif with long creation](long_id_small.gif "Making a random long")
