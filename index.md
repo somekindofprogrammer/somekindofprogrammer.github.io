@@ -7,3 +7,12 @@ Hello github user
     nextLong++
 
 Other text goes here
+
+```java
+class Test {
+    @Test
+    public void testMe() {
+        fail();
+    }
+}
+```
